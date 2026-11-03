@@ -1,0 +1,6 @@
+id=bgmi_spoofer
+name=BGMI HWID Spoofer
+version=v1.0
+versionCode=1
+author=Mahi
+description=Spoofs hardware identifiers to bypass server-side bans.
